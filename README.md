@@ -30,7 +30,7 @@ sudo apt-get install netcat nmap
 
 Place the script in a desired directory and make it executable:
 ```bash
-chmod +x tunnel-select.sh
+chmod +x tunnel_management.sh
 ```
 ## Usage
 Configure the serviceNames and ports arrays at the top of the script to match the services you want to manage and their respective local ports.
