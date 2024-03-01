@@ -13,7 +13,7 @@ This Bash script manages SSH tunnels for specified services, allowing remote acc
 ## Requirements
 
 - Bash shell
-- `gum`: A modern tool for fancy input and output in the terminal.
+- `gum`: A modern tool for fancy input and output in the terminal. [Source](https://github.com/charmbracelet/gum)
 - `nc` (netcat): A networking utility for reading from and writing to network connections.
 - `nmap`: Network exploration tool and security / port scanner.
 - SSH access to the target domain(s) with port forwarding capabilities.
