@@ -42,7 +42,7 @@ Run the script:
 Follow the on-screen prompts to start or stop tunnels for the configured services.
 
 ## Customization
-You can customize the script by modifying the serviceNames, ports, domainUser, and fallbackDomains variables to match your infrastructure and preferences.
+You can customize the script by modifying the `serviceNames`, `ports`, `domainUser`, and `fallbackDomains` variables to match your infrastructure and preferences. References Provided.
 
 ## Troubleshooting
 If you encounter an error about missing commands, ensure that gum, nc, and nmap are correctly installed and accessible in your PATH.
